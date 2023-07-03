@@ -5,6 +5,8 @@ package test.controller;
 public class Angel {
 	public static void main(String[] args) {
 		System.out.println("專題甘巴爹捏~~~~~");
+		
+		System.out.println("So worry about OUR PROJECT...... T_T");
 	}
 	
 
